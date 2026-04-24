@@ -12,7 +12,7 @@ In this presentation, I will go over why using Bayesian Optimization for liquids
 <h2>Links:</h2>
 <br>Link to North Robot Github: https://github.com/AccelerationConsortium/North-Cytation
 <br>Link to Calibration Folder: https://github.com/AccelerationConsortium/North-Cytation/tree/main/calibration_modular_v2
-<br>Link to GUI for Demo: https://github.com/AccelerationConsortium/North-Cytation/blob/main/calibration_modular_v2/experiment_config_gui.yaml
+<br>Link to GUI for Demo: https://github.com/AccelerationConsortium/North-Cytation/blob/main/calibration_modular_v2/calibration_test_gui.py
 <br>Link to live stream of robot: https://www.youtube.com/playlist?list=PL8uZlc2CEpekQJl7h8FpY08JgcZwzdUVj
 
 <h2>Other Contributors:</h2>
@@ -26,3 +26,4 @@ Dr. Nipun Gupta (Acceleration Consortium)
 <br>Dr. Wei Yang Tham (Acceleration Consortium)
 <br>Edison Lin (Acceleration Consortium)
 <br>Monique Ngan (McGill University)
+
