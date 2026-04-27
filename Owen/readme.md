@@ -11,7 +11,7 @@ In this presentation, I will go over why using Bayesian Optimization for liquids
 
 <h2>Results: </h2>
 
-The optimizer, seeded with our manual data, converged on a very good solution by cycle 12 (optimization cycle 8), with average volume = 50.8 mL (target was 50.0) with a CV of 0.05 and a time of 25s per run. Not bad for something that started at 15 uL! The best parameters were:
+The optimizer, seeded with our manual data, converged on a very good solution by cycle 12 (optimization cycle 8), with average volume = 50.8 uL (target was 50.0) with a CV of 0.05% (2 replicates) and a time of 25s per run. Not bad for something that started at 15 uL! The best parameters were:
 - Overaspirate 10.3uL extra
 - Aspirate at speed 12
 - Wait 3.5 seconds after aspiration
