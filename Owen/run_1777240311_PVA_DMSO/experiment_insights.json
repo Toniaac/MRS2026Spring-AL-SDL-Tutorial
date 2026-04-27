@@ -1,0 +1,44 @@
+{
+  "parameter_sensitivity": {
+    "shap_importance": {
+      "accuracy": {
+        "hardware_parameters_aspirate_wait_time": 13.093066215515137,
+        "hardware_parameters_aspirate_speed": 7.176727294921875,
+        "hardware_parameters_blowout_vol": 2.348952054977417,
+        "calibration_overaspirate_vol": 1.1898940801620483,
+        "hardware_parameters_dispense_speed": 0.00021732019376941025,
+        "hardware_parameters_dispense_wait_time": 0.0
+      },
+      "time": {
+        "hardware_parameters_dispense_speed": 7.157031059265137,
+        "hardware_parameters_dispense_wait_time": 2.7704296112060547,
+        "hardware_parameters_aspirate_speed": 1.6473249197006226,
+        "calibration_overaspirate_vol": 1.495049238204956,
+        "hardware_parameters_aspirate_wait_time": 0.3198975920677185,
+        "hardware_parameters_blowout_vol": 0.16988655924797058
+      },
+      "precision": {
+        "hardware_parameters_dispense_speed": 1.2609161138534546,
+        "hardware_parameters_aspirate_wait_time": 1.1539313793182373,
+        "calibration_overaspirate_vol": 0.903232991695404,
+        "hardware_parameters_aspirate_speed": 0.5478297472000122,
+        "hardware_parameters_blowout_vol": 0.41251200437545776,
+        "hardware_parameters_dispense_wait_time": 0.0024522445164620876
+      }
+    }
+  },
+  "model_performance": {
+    "all_targets": {
+      "accuracy": 0.9999999989768419,
+      "time": 0.9999999970534158,
+      "precision": 0.9999999652997564
+    },
+    "r2_score": 0.9999999989768419,
+    "n_samples": 14,
+    "targets_analyzed": [
+      "accuracy",
+      "time",
+      "precision"
+    ]
+  }
+}

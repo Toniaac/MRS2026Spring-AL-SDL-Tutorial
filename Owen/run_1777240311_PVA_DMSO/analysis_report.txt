@@ -1,0 +1,32 @@
+CALIBRATION EXPERIMENT ANALYSIS REPORT
+==================================================
+
+EXPERIMENT OVERVIEW
+--------------------
+Total Trials: 14
+Volumes Calibrated: 1
+Mean Deviation: 22.87%
+Best Deviation: 1.66%
+Excellent Trial Rate: 0.0%
+Total Experiment Time: 8.2 minutes
+
+PARAMETER IMPORTANCE (SHAP - mean |effect| on each target)
+-------------------------------------------------------
+Parameter                         Accuracy   Precision        Time
+------------------------------------------------------------------
+hardware_parameters_aspirate_wait_time      8.8672      1.0355      0.5075
+hardware_parameters_aspirate_speed      4.2635      0.2503      1.1155
+hardware_parameters_blowout_vol      1.4908      0.5557      0.2967
+hardware_parameters_overaspirate_vol      0.7256      0.0339      0.2032
+calibration_overaspirate_vol        0.7082      0.2764      0.2043
+hardware_parameters_retract_speed      0.6907      0.0788      0.0678
+hardware_parameters_dispense_wait_time      0.6395      0.0651      1.5869
+hardware_parameters_dispense_speed      0.5465      0.6808      6.6612
+hardware_parameters_post_asp_air_vol      0.0000      0.0000      0.0000
+hardware_parameters_post_retract_wait_time      0.0000      0.0000      0.0000
+
+RECOMMENDATIONS
+---------------
+1. Low excellent trial rate (<30%). Consider tightening parameter bounds or increasing measurement budget.
+2. Parameters with low variation detected: hardware_parameters_retract_speed. Consider expanding search ranges.
+

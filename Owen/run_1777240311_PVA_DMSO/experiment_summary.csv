@@ -1,0 +1,2 @@
+experiment_timestamp,total_trials,volumes_calibrated,mean_deviation_pct,best_deviation_pct,worst_deviation_pct,mean_cv_pct,mean_time_s,total_measurements,successful_volumes,efficiency_trials_per_volume,volume_1_ul,volume_1_deviation_pct,volume_1_trials
+2026-04-26T18:06:54.295465,14,1,1.6576576576576296,1.6576576576576296,1.6576576576576296,0.050131639928152776,25.244915049988776,28,1,14.0,50.0,1.6576576576576296,14

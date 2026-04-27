@@ -1,0 +1,1306 @@
+[
+  {
+    "measurement_id": "external_0",
+    "parameters": {
+      "calibration": {
+        "overaspirate_vol": 0.0
+      },
+      "hardware": {
+        "parameters": {
+          "overaspirate_vol": 0.0,
+          "aspirate_speed": 10,
+          "aspirate_wait_time": 0.0,
+          "blowout_vol": 0.0,
+          "dispense_speed": 10,
+          "dispense_wait_time": 0.0,
+          "post_asp_air_vol": 0.0,
+          "post_retract_wait_time": 0.0,
+          "pre_asp_air_vol": 0.0
+        }
+      }
+    },
+    "target_volume_ml": 0.05,
+    "measured_volume_ml": 0.0142702702702725,
+    "duration_s": 22.20256350003183,
+    "timestamp": 1777240338.3532708,
+    "replicate_id": 1,
+    "metadata": {
+      "source": "external_data",
+      "original_timestamp": "2026-04-26T17:40:32.037208",
+      "liquid_type": "PVA_DMSO"
+    },
+    "trial_score": 221.04355664104548,
+    "trial_quality": "outside_tolerance"
+  },
+  {
+    "measurement_id": "external_1",
+    "parameters": {
+      "calibration": {
+        "overaspirate_vol": 0.0
+      },
+      "hardware": {
+        "parameters": {
+          "overaspirate_vol": 0.0,
+          "aspirate_speed": 10,
+          "aspirate_wait_time": 0.0,
+          "blowout_vol": 0.0,
+          "dispense_speed": 10,
+          "dispense_wait_time": 0.0,
+          "post_asp_air_vol": 0.0,
+          "post_retract_wait_time": 0.0,
+          "pre_asp_air_vol": 0.0
+        }
+      }
+    },
+    "target_volume_ml": 0.05,
+    "measured_volume_ml": 0.0156036036036034,
+    "duration_s": 19.00253519997932,
+    "timestamp": 1777240338.3543253,
+    "replicate_id": 2,
+    "metadata": {
+      "source": "external_data",
+      "original_timestamp": "2026-04-26T17:40:32.037208",
+      "liquid_type": "PVA_DMSO"
+    },
+    "trial_score": 221.04355664104548,
+    "trial_quality": "outside_tolerance"
+  },
+  {
+    "measurement_id": "external_2",
+    "parameters": {
+      "calibration": {
+        "overaspirate_vol": 0.01
+      },
+      "hardware": {
+        "parameters": {
+          "overaspirate_vol": 0.01,
+          "aspirate_speed": 30,
+          "aspirate_wait_time": 10.0,
+          "blowout_vol": 0.0,
+          "dispense_speed": 5,
+          "dispense_wait_time": 0.0,
+          "post_asp_air_vol": 0.0,
+          "post_retract_wait_time": 0.0,
+          "pre_asp_air_vol": 0.0
+        }
+      }
+    },
+    "target_volume_ml": 0.05,
+    "measured_volume_ml": 0.0314729729729721,
+    "duration_s": 34.80202359997202,
+    "timestamp": 1777240338.3543253,
+    "replicate_id": 1,
+    "metadata": {
+      "source": "external_data",
+      "original_timestamp": "2026-04-26T17:45:06.634371",
+      "liquid_type": "PVA_DMSO"
+    },
+    "trial_score": 204.63581404700807,
+    "trial_quality": "outside_tolerance"
+  },
+  {
+    "measurement_id": "external_3",
+    "parameters": {
+      "calibration": {
+        "overaspirate_vol": 0.01
+      },
+      "hardware": {
+        "parameters": {
+          "overaspirate_vol": 0.01,
+          "aspirate_speed": 30,
+          "aspirate_wait_time": 10.0,
+          "blowout_vol": 0.0,
+          "dispense_speed": 5,
+          "dispense_wait_time": 0.0,
+          "post_asp_air_vol": 0.0,
+          "post_retract_wait_time": 0.0,
+          "pre_asp_air_vol": 0.0
+        }
+      }
+    },
+    "target_volume_ml": 0.05,
+    "measured_volume_ml": 0.036114114114113,
+    "duration_s": 35.80166990001453,
+    "timestamp": 1777240338.3543253,
+    "replicate_id": 2,
+    "metadata": {
+      "source": "external_data",
+      "original_timestamp": "2026-04-26T17:45:06.634371",
+      "liquid_type": "PVA_DMSO"
+    },
+    "trial_score": 204.63581404700807,
+    "trial_quality": "outside_tolerance"
+  },
+  {
+    "measurement_id": "external_4",
+    "parameters": {
+      "calibration": {
+        "overaspirate_vol": 0.010000000000000002
+      },
+      "hardware": {
+        "parameters": {
+          "overaspirate_vol": 0.015,
+          "aspirate_speed": 20,
+          "aspirate_wait_time": 5.0,
+          "blowout_vol": 0.3,
+          "dispense_speed": 25,
+          "dispense_wait_time": 10.0,
+          "post_asp_air_vol": 0.0,
+          "post_retract_wait_time": 0.0,
+          "pre_asp_air_vol": 0.0
+        }
+      }
+    },
+    "target_volume_ml": 0.05,
+    "measured_volume_ml": 0.0638738738738738,
+    "duration_s": 58.002885600028094,
+    "timestamp": 1777240338.3543253,
+    "replicate_id": 1,
+    "metadata": {
+      "source": "external_data",
+      "original_timestamp": "2026-04-26T17:49:30.670682",
+      "liquid_type": "PVA_DMSO"
+    },
+    "trial_score": 109.70159784271257,
+    "trial_quality": "partial_tolerance"
+  },
+  {
+    "measurement_id": "external_5",
+    "parameters": {
+      "calibration": {
+        "overaspirate_vol": 0.010000000000000002
+      },
+      "hardware": {
+        "parameters": {
+          "overaspirate_vol": 0.015,
+          "aspirate_speed": 20,
+          "aspirate_wait_time": 5.0,
+          "blowout_vol": 0.3,
+          "dispense_speed": 25,
+          "dispense_wait_time": 10.0,
+          "post_asp_air_vol": 0.0,
+          "post_retract_wait_time": 0.0,
+          "pre_asp_air_vol": 0.0
+        }
+      }
+    },
+    "target_volume_ml": 0.05,
+    "measured_volume_ml": 0.0634234234234244,
+    "duration_s": 57.00319739995757,
+    "timestamp": 1777240338.3543253,
+    "replicate_id": 2,
+    "metadata": {
+      "source": "external_data",
+      "original_timestamp": "2026-04-26T17:49:30.670682",
+      "liquid_type": "PVA_DMSO"
+    },
+    "trial_score": 109.70159784271257,
+    "trial_quality": "partial_tolerance"
+  },
+  {
+    "measurement_id": "external_6",
+    "parameters": {
+      "calibration": {
+        "overaspirate_vol": 0.002
+      },
+      "hardware": {
+        "parameters": {
+          "overaspirate_vol": 0.002,
+          "aspirate_speed": 15,
+          "aspirate_wait_time": 2.0,
+          "blowout_vol": 0.4,
+          "dispense_speed": 20,
+          "dispense_wait_time": 3.0,
+          "post_asp_air_vol": 0.0,
+          "post_retract_wait_time": 0.0,
+          "pre_asp_air_vol": 0.0
+        }
+      }
+    },
+    "target_volume_ml": 0.05,
+    "measured_volume_ml": 0.04774774774775,
+    "duration_s": 44.00261560000945,
+    "timestamp": 1777240338.3543253,
+    "replicate_id": 1,
+    "metadata": {
+      "source": "external_data",
+      "original_timestamp": "2026-04-26T17:51:31.992781",
+      "liquid_type": "PVA_DMSO"
+    },
+    "trial_score": 50.0205151881549,
+    "trial_quality": "partial_tolerance"
+  },
+  {
+    "measurement_id": "external_7",
+    "parameters": {
+      "calibration": {
+        "overaspirate_vol": 0.002
+      },
+      "hardware": {
+        "parameters": {
+          "overaspirate_vol": 0.002,
+          "aspirate_speed": 15,
+          "aspirate_wait_time": 2.0,
+          "blowout_vol": 0.4,
+          "dispense_speed": 20,
+          "dispense_wait_time": 3.0,
+          "post_asp_air_vol": 0.0,
+          "post_retract_wait_time": 0.0,
+          "pre_asp_air_vol": 0.0
+        }
+      }
+    },
+    "target_volume_ml": 0.05,
+    "measured_volume_ml": 0.0478378378378383,
+    "duration_s": 42.403469799959566,
+    "timestamp": 1777240338.3543253,
+    "replicate_id": 2,
+    "metadata": {
+      "source": "external_data",
+      "original_timestamp": "2026-04-26T17:51:31.992781",
+      "liquid_type": "PVA_DMSO"
+    },
+    "trial_score": 50.0205151881549,
+    "trial_quality": "partial_tolerance"
+  },
+  {
+    "measurement_id": "measurement_1777240374292042_1",
+    "parameters": {
+      "calibration": {
+        "overaspirate_vol": 0.0
+      },
+      "hardware": {
+        "parameters": {
+          "aspirate_speed": 11,
+          "aspirate_wait_time": 0.6000000000000001,
+          "blowout_vol": 0.386,
+          "dispense_speed": 10,
+          "dispense_wait_time": 0.0,
+          "asp_disp_cycles": 0,
+          "post_asp_air_vol": 0.0,
+          "post_retract_wait_time": 0.0,
+          "pre_asp_air_vol": 0.0,
+          "retract_speed": 5.0
+        }
+      }
+    },
+    "target_volume_ml": 0.05,
+    "measured_volume_ml": 0.02621621621621622,
+    "duration_s": 25.26016730000265,
+    "timestamp": 1777240374.292042,
+    "replicate_id": 1,
+    "metadata": {
+      "replicate": 1,
+      "volume": 0.02621621621621622,
+      "elapsed_s": 25.26016730000265,
+      "start_time": "2026-04-26T17:52:28.838034",
+      "end_time": "2026-04-26T17:52:54.290653",
+      "target_volume_mL": 0.05,
+      "measured_volume_uL": 26.216216216216218,
+      "target_volume_uL": 50.0,
+      "measurement_budget_consumed": 1,
+      "aspirate_speed": 11,
+      "dispense_speed": 10,
+      "aspirate_wait_time": 0.6000000000000001,
+      "dispense_wait_time": 0.0,
+      "pre_asp_air_vol": 0.0,
+      "retract_speed": 5.0,
+      "blowout_vol": 0.386,
+      "post_asp_air_vol": 0.0,
+      "post_retract_wait_time": 0.0,
+      "overaspirate_vol": 0.0,
+      "asp_disp_cycles": 0,
+      "source_volume_remaining_ml": 5.977117117117113
+    },
+    "trial_score": 265.1749214225152,
+    "trial_quality": "outside_tolerance"
+  },
+  {
+    "measurement_id": "measurement_1777240399415425_1",
+    "parameters": {
+      "calibration": {
+        "overaspirate_vol": 0.0
+      },
+      "hardware": {
+        "parameters": {
+          "aspirate_speed": 11,
+          "aspirate_wait_time": 0.6000000000000001,
+          "blowout_vol": 0.386,
+          "dispense_speed": 10,
+          "dispense_wait_time": 0.0,
+          "asp_disp_cycles": 0,
+          "post_asp_air_vol": 0.0,
+          "post_retract_wait_time": 0.0,
+          "pre_asp_air_vol": 0.0,
+          "retract_speed": 5.0
+        }
+      }
+    },
+    "target_volume_ml": 0.05,
+    "measured_volume_ml": 0.03216216216216215,
+    "duration_s": 22.783509999979287,
+    "timestamp": 1777240399.4154258,
+    "replicate_id": 1,
+    "metadata": {
+      "replicate": 1,
+      "volume": 0.03216216216216215,
+      "elapsed_s": 22.783509999979287,
+      "start_time": "2026-04-26T17:52:54.292041",
+      "end_time": "2026-04-26T17:53:19.415425",
+      "target_volume_mL": 0.05,
+      "measured_volume_uL": 32.162162162162154,
+      "target_volume_uL": 50.0,
+      "measurement_budget_consumed": 1,
+      "aspirate_speed": 11,
+      "dispense_speed": 10,
+      "aspirate_wait_time": 0.6000000000000001,
+      "dispense_wait_time": 0.0,
+      "pre_asp_air_vol": 0.0,
+      "retract_speed": 5.0,
+      "blowout_vol": 0.386,
+      "post_asp_air_vol": 0.0,
+      "post_retract_wait_time": 0.0,
+      "overaspirate_vol": 0.0,
+      "asp_disp_cycles": 0,
+      "source_volume_remaining_ml": 5.977117117117113
+    },
+    "trial_score": 265.1749214225152,
+    "trial_quality": "outside_tolerance"
+  },
+  {
+    "measurement_id": "measurement_1777240449565527_1",
+    "parameters": {
+      "calibration": {
+        "overaspirate_vol": 0.0
+      },
+      "hardware": {
+        "parameters": {
+          "aspirate_speed": 6,
+          "aspirate_wait_time": 0.0,
+          "blowout_vol": 0.41000000000000003,
+          "dispense_speed": 21,
+          "dispense_wait_time": 0.0,
+          "asp_disp_cycles": 0,
+          "post_asp_air_vol": 0.0,
+          "post_retract_wait_time": 0.0,
+          "pre_asp_air_vol": 0.0,
+          "retract_speed": 5.0
+        }
+      }
+    },
+    "target_volume_ml": 0.05,
+    "measured_volume_ml": 0.019369369369369373,
+    "duration_s": 37.73467779997736,
+    "timestamp": 1777240449.5655272,
+    "replicate_id": 1,
+    "metadata": {
+      "replicate": 1,
+      "volume": 0.019369369369369373,
+      "elapsed_s": 37.73467779997736,
+      "start_time": "2026-04-26T17:53:31.652301",
+      "end_time": "2026-04-26T17:54:09.565527",
+      "target_volume_mL": 0.05,
+      "measured_volume_uL": 19.369369369369373,
+      "target_volume_uL": 50.0,
+      "measurement_budget_consumed": 1,
+      "aspirate_speed": 6,
+      "dispense_speed": 21,
+      "aspirate_wait_time": 0.0,
+      "dispense_wait_time": 0.0,
+      "pre_asp_air_vol": 0.0,
+      "retract_speed": 5.0,
+      "blowout_vol": 0.41000000000000003,
+      "post_asp_air_vol": 0.0,
+      "post_retract_wait_time": 0.0,
+      "overaspirate_vol": 0.0,
+      "asp_disp_cycles": 0,
+      "source_volume_remaining_ml": 5.977117117117113
+    },
+    "trial_score": 169.40462769555995,
+    "trial_quality": "partial_tolerance"
+  },
+  {
+    "measurement_id": "measurement_1777240489213211_1",
+    "parameters": {
+      "calibration": {
+        "overaspirate_vol": 0.0
+      },
+      "hardware": {
+        "parameters": {
+          "aspirate_speed": 6,
+          "aspirate_wait_time": 0.0,
+          "blowout_vol": 0.41000000000000003,
+          "dispense_speed": 21,
+          "dispense_wait_time": 0.0,
+          "asp_disp_cycles": 0,
+          "post_asp_air_vol": 0.0,
+          "post_retract_wait_time": 0.0,
+          "pre_asp_air_vol": 0.0,
+          "retract_speed": 5.0
+        }
+      }
+    },
+    "target_volume_ml": 0.05,
+    "measured_volume_ml": 0.019909909909909904,
+    "duration_s": 37.78132180002285,
+    "timestamp": 1777240489.213211,
+    "replicate_id": 1,
+    "metadata": {
+      "replicate": 1,
+      "volume": 0.019909909909909904,
+      "elapsed_s": 37.78132180002285,
+      "start_time": "2026-04-26T17:54:09.566760",
+      "end_time": "2026-04-26T17:54:49.213211",
+      "target_volume_mL": 0.05,
+      "measured_volume_uL": 19.909909909909903,
+      "target_volume_uL": 50.0,
+      "measurement_budget_consumed": 1,
+      "aspirate_speed": 6,
+      "dispense_speed": 21,
+      "aspirate_wait_time": 0.0,
+      "dispense_wait_time": 0.0,
+      "pre_asp_air_vol": 0.0,
+      "retract_speed": 5.0,
+      "blowout_vol": 0.41000000000000003,
+      "post_asp_air_vol": 0.0,
+      "post_retract_wait_time": 0.0,
+      "overaspirate_vol": 0.0,
+      "asp_disp_cycles": 0,
+      "source_volume_remaining_ml": 5.977117117117113
+    },
+    "trial_score": 169.40462769555995,
+    "trial_quality": "partial_tolerance"
+  },
+  {
+    "measurement_id": "measurement_1777240540403766_1",
+    "parameters": {
+      "calibration": {
+        "overaspirate_vol": 0.0
+      },
+      "hardware": {
+        "parameters": {
+          "aspirate_speed": 17,
+          "aspirate_wait_time": 0.0,
+          "blowout_vol": 0.438,
+          "dispense_speed": 17,
+          "dispense_wait_time": 0.6000000000000001,
+          "asp_disp_cycles": 0,
+          "post_asp_air_vol": 0.0,
+          "post_retract_wait_time": 0.0,
+          "pre_asp_air_vol": 0.0,
+          "retract_speed": 5.0
+        }
+      }
+    },
+    "target_volume_ml": 0.05,
+    "measured_volume_ml": 0.037567567567567565,
+    "duration_s": 37.571264199970756,
+    "timestamp": 1777240540.403766,
+    "replicate_id": 1,
+    "metadata": {
+      "replicate": 1,
+      "volume": 0.037567567567567565,
+      "elapsed_s": 37.571264199970756,
+      "start_time": "2026-04-26T17:55:02.594059",
+      "end_time": "2026-04-26T17:55:40.401989",
+      "target_volume_mL": 0.05,
+      "measured_volume_uL": 37.567567567567565,
+      "target_volume_uL": 50.0,
+      "measurement_budget_consumed": 1,
+      "aspirate_speed": 17,
+      "dispense_speed": 17,
+      "aspirate_wait_time": 0.0,
+      "dispense_wait_time": 0.6000000000000001,
+      "pre_asp_air_vol": 0.0,
+      "retract_speed": 5.0,
+      "blowout_vol": 0.438,
+      "post_asp_air_vol": 0.0,
+      "post_retract_wait_time": 0.0,
+      "overaspirate_vol": 0.0,
+      "asp_disp_cycles": 0,
+      "source_volume_remaining_ml": 5.977117117117113
+    },
+    "trial_score": 128.50090510912108,
+    "trial_quality": "outside_tolerance"
+  },
+  {
+    "measurement_id": "measurement_1777240581411422_1",
+    "parameters": {
+      "calibration": {
+        "overaspirate_vol": 0.0
+      },
+      "hardware": {
+        "parameters": {
+          "aspirate_speed": 17,
+          "aspirate_wait_time": 0.0,
+          "blowout_vol": 0.438,
+          "dispense_speed": 17,
+          "dispense_wait_time": 0.6000000000000001,
+          "asp_disp_cycles": 0,
+          "post_asp_air_vol": 0.0,
+          "post_retract_wait_time": 0.0,
+          "pre_asp_air_vol": 0.0,
+          "retract_speed": 5.0
+        }
+      }
+    },
+    "target_volume_ml": 0.05,
+    "measured_volume_ml": 0.035585585585585576,
+    "duration_s": 37.179304799996316,
+    "timestamp": 1777240581.411422,
+    "replicate_id": 1,
+    "metadata": {
+      "replicate": 1,
+      "volume": 0.035585585585585576,
+      "elapsed_s": 37.179304799996316,
+      "start_time": "2026-04-26T17:55:40.404765",
+      "end_time": "2026-04-26T17:56:21.410379",
+      "target_volume_mL": 0.05,
+      "measured_volume_uL": 35.58558558558558,
+      "target_volume_uL": 50.0,
+      "measurement_budget_consumed": 1,
+      "aspirate_speed": 17,
+      "dispense_speed": 17,
+      "aspirate_wait_time": 0.0,
+      "dispense_wait_time": 0.6000000000000001,
+      "pre_asp_air_vol": 0.0,
+      "retract_speed": 5.0,
+      "blowout_vol": 0.438,
+      "post_asp_air_vol": 0.0,
+      "post_retract_wait_time": 0.0,
+      "overaspirate_vol": 0.0,
+      "asp_disp_cycles": 0,
+      "source_volume_remaining_ml": 5.977117117117113
+    },
+    "trial_score": 128.50090510912108,
+    "trial_quality": "outside_tolerance"
+  },
+  {
+    "measurement_id": "measurement_1777240626798873_1",
+    "parameters": {
+      "calibration": {
+        "overaspirate_vol": 0.0015
+      },
+      "hardware": {
+        "parameters": {
+          "aspirate_speed": 17,
+          "aspirate_wait_time": 2.6,
+          "blowout_vol": 0.5,
+          "dispense_speed": 2,
+          "dispense_wait_time": 3.7,
+          "asp_disp_cycles": 0,
+          "post_asp_air_vol": 0.0,
+          "post_retract_wait_time": 0.0,
+          "pre_asp_air_vol": 0.0,
+          "retract_speed": 5.0
+        }
+      }
+    },
+    "target_volume_ml": 0.05,
+    "measured_volume_ml": 0.04549549549549551,
+    "duration_s": 29.567211400019005,
+    "timestamp": 1777240626.7988737,
+    "replicate_id": 1,
+    "metadata": {
+      "replicate": 1,
+      "volume": 0.04549549549549551,
+      "elapsed_s": 29.567211400019005,
+      "start_time": "2026-04-26T17:56:37.128309",
+      "end_time": "2026-04-26T17:57:06.798873",
+      "target_volume_mL": 0.05,
+      "measured_volume_uL": 45.49549549549551,
+      "target_volume_uL": 50.0,
+      "measurement_budget_consumed": 1,
+      "aspirate_speed": 17,
+      "dispense_speed": 2,
+      "aspirate_wait_time": 2.6,
+      "dispense_wait_time": 3.7,
+      "pre_asp_air_vol": 0.0,
+      "retract_speed": 5.0,
+      "blowout_vol": 0.5,
+      "post_asp_air_vol": 0.0,
+      "post_retract_wait_time": 0.0,
+      "overaspirate_vol": 0.0015,
+      "asp_disp_cycles": 0,
+      "source_volume_remaining_ml": 5.977117117117113
+    },
+    "trial_score": 110.66073791311211,
+    "trial_quality": "outside_tolerance"
+  },
+  {
+    "measurement_id": "measurement_1777240657821300_1",
+    "parameters": {
+      "calibration": {
+        "overaspirate_vol": 0.0015
+      },
+      "hardware": {
+        "parameters": {
+          "aspirate_speed": 17,
+          "aspirate_wait_time": 2.6,
+          "blowout_vol": 0.5,
+          "dispense_speed": 2,
+          "dispense_wait_time": 3.7,
+          "asp_disp_cycles": 0,
+          "post_asp_air_vol": 0.0,
+          "post_retract_wait_time": 0.0,
+          "pre_asp_air_vol": 0.0,
+          "retract_speed": 5.0
+        }
+      }
+    },
+    "target_volume_ml": 0.05,
+    "measured_volume_ml": 0.042252252252252265,
+    "duration_s": 29.988104700052645,
+    "timestamp": 1777240657.8213005,
+    "replicate_id": 1,
+    "metadata": {
+      "replicate": 1,
+      "volume": 0.042252252252252265,
+      "elapsed_s": 29.988104700052645,
+      "start_time": "2026-04-26T17:57:06.800009",
+      "end_time": "2026-04-26T17:57:37.820077",
+      "target_volume_mL": 0.05,
+      "measured_volume_uL": 42.25225225225226,
+      "target_volume_uL": 50.0,
+      "measurement_budget_consumed": 1,
+      "aspirate_speed": 17,
+      "dispense_speed": 2,
+      "aspirate_wait_time": 2.6,
+      "dispense_wait_time": 3.7,
+      "pre_asp_air_vol": 0.0,
+      "retract_speed": 5.0,
+      "blowout_vol": 0.5,
+      "post_asp_air_vol": 0.0,
+      "post_retract_wait_time": 0.0,
+      "overaspirate_vol": 0.0015,
+      "asp_disp_cycles": 0,
+      "source_volume_remaining_ml": 5.977117117117113
+    },
+    "trial_score": 110.66073791311211,
+    "trial_quality": "outside_tolerance"
+  },
+  {
+    "measurement_id": "measurement_1777240720839658_1",
+    "parameters": {
+      "calibration": {
+        "overaspirate_vol": 0.0078000000000000005
+      },
+      "hardware": {
+        "parameters": {
+          "aspirate_speed": 18,
+          "aspirate_wait_time": 2.3000000000000003,
+          "blowout_vol": 0.377,
+          "dispense_speed": 22,
+          "dispense_wait_time": 3.7,
+          "asp_disp_cycles": 0,
+          "post_asp_air_vol": 0.0,
+          "post_retract_wait_time": 0.0,
+          "pre_asp_air_vol": 0.0,
+          "retract_speed": 5.0
+        }
+      }
+    },
+    "target_volume_ml": 0.05,
+    "measured_volume_ml": 0.05488288288288288,
+    "duration_s": 46.40681070002029,
+    "timestamp": 1777240720.8396587,
+    "replicate_id": 1,
+    "metadata": {
+      "replicate": 1,
+      "volume": 0.05488288288288288,
+      "elapsed_s": 46.40681070002029,
+      "start_time": "2026-04-26T17:57:54.256551",
+      "end_time": "2026-04-26T17:58:40.838785",
+      "target_volume_mL": 0.05,
+      "measured_volume_uL": 54.88288288288288,
+      "target_volume_uL": 50.0,
+      "measurement_budget_consumed": 1,
+      "aspirate_speed": 18,
+      "dispense_speed": 22,
+      "aspirate_wait_time": 2.3000000000000003,
+      "dispense_wait_time": 3.7,
+      "pre_asp_air_vol": 0.0,
+      "retract_speed": 5.0,
+      "blowout_vol": 0.377,
+      "post_asp_air_vol": 0.0,
+      "post_retract_wait_time": 0.0,
+      "overaspirate_vol": 0.0078000000000000005,
+      "asp_disp_cycles": 0,
+      "source_volume_remaining_ml": 5.977117117117113
+    },
+    "trial_score": 70.88962064467597,
+    "trial_quality": "partial_tolerance"
+  },
+  {
+    "measurement_id": "measurement_1777240768172205_1",
+    "parameters": {
+      "calibration": {
+        "overaspirate_vol": 0.0078000000000000005
+      },
+      "hardware": {
+        "parameters": {
+          "aspirate_speed": 18,
+          "aspirate_wait_time": 2.3000000000000003,
+          "blowout_vol": 0.377,
+          "dispense_speed": 22,
+          "dispense_wait_time": 3.7,
+          "asp_disp_cycles": 0,
+          "post_asp_air_vol": 0.0,
+          "post_retract_wait_time": 0.0,
+          "pre_asp_air_vol": 0.0,
+          "retract_speed": 5.0
+        }
+      }
+    },
+    "target_volume_ml": 0.05,
+    "measured_volume_ml": 0.05414414414414414,
+    "duration_s": 46.13919410004746,
+    "timestamp": 1777240768.1722052,
+    "replicate_id": 1,
+    "metadata": {
+      "replicate": 1,
+      "volume": 0.05414414414414414,
+      "elapsed_s": 46.13919410004746,
+      "start_time": "2026-04-26T17:58:40.840059",
+      "end_time": "2026-04-26T17:59:28.172205",
+      "target_volume_mL": 0.05,
+      "measured_volume_uL": 54.14414414414414,
+      "target_volume_uL": 50.0,
+      "measurement_budget_consumed": 1,
+      "aspirate_speed": 18,
+      "dispense_speed": 22,
+      "aspirate_wait_time": 2.3000000000000003,
+      "dispense_wait_time": 3.7,
+      "pre_asp_air_vol": 0.0,
+      "retract_speed": 5.0,
+      "blowout_vol": 0.377,
+      "post_asp_air_vol": 0.0,
+      "post_retract_wait_time": 0.0,
+      "overaspirate_vol": 0.0078000000000000005,
+      "asp_disp_cycles": 0,
+      "source_volume_remaining_ml": 5.977117117117113
+    },
+    "trial_score": 70.88962064467597,
+    "trial_quality": "partial_tolerance"
+  },
+  {
+    "measurement_id": "measurement_1777240823448360_1",
+    "parameters": {
+      "calibration": {
+        "overaspirate_vol": 0.0
+      },
+      "hardware": {
+        "parameters": {
+          "aspirate_speed": 13,
+          "aspirate_wait_time": 3.3000000000000003,
+          "blowout_vol": 0.277,
+          "dispense_speed": 19,
+          "dispense_wait_time": 2.0,
+          "asp_disp_cycles": 0,
+          "post_asp_air_vol": 0.0,
+          "post_retract_wait_time": 0.0,
+          "pre_asp_air_vol": 0.0,
+          "retract_speed": 5.0
+        }
+      }
+    },
+    "target_volume_ml": 0.05,
+    "measured_volume_ml": 0.047117117117117115,
+    "duration_s": 37.21482880000258,
+    "timestamp": 1777240823.4483602,
+    "replicate_id": 1,
+    "metadata": {
+      "replicate": 1,
+      "volume": 0.047117117117117115,
+      "elapsed_s": 37.21482880000258,
+      "start_time": "2026-04-26T17:59:46.095975",
+      "end_time": "2026-04-26T18:00:23.435563",
+      "target_volume_mL": 0.05,
+      "measured_volume_uL": 47.11711711711712,
+      "target_volume_uL": 50.0,
+      "measurement_budget_consumed": 1,
+      "aspirate_speed": 13,
+      "dispense_speed": 19,
+      "aspirate_wait_time": 3.3000000000000003,
+      "dispense_wait_time": 2.0,
+      "pre_asp_air_vol": 0.0,
+      "retract_speed": 5.0,
+      "blowout_vol": 0.277,
+      "post_asp_air_vol": 0.0,
+      "post_retract_wait_time": 0.0,
+      "overaspirate_vol": 0.0,
+      "asp_disp_cycles": 0,
+      "source_volume_remaining_ml": 5.977117117117113
+    },
+    "trial_score": 48.046234672848236,
+    "trial_quality": "partial_tolerance"
+  },
+  {
+    "measurement_id": "measurement_1777240862014211_1",
+    "parameters": {
+      "calibration": {
+        "overaspirate_vol": 0.0
+      },
+      "hardware": {
+        "parameters": {
+          "aspirate_speed": 13,
+          "aspirate_wait_time": 3.3000000000000003,
+          "blowout_vol": 0.277,
+          "dispense_speed": 19,
+          "dispense_wait_time": 2.0,
+          "asp_disp_cycles": 0,
+          "post_asp_air_vol": 0.0,
+          "post_retract_wait_time": 0.0,
+          "pre_asp_air_vol": 0.0,
+          "retract_speed": 5.0
+        }
+      }
+    },
+    "target_volume_ml": 0.05,
+    "measured_volume_ml": 0.0472972972972973,
+    "duration_s": 36.98041190003278,
+    "timestamp": 1777240862.0142114,
+    "replicate_id": 1,
+    "metadata": {
+      "replicate": 1,
+      "volume": 0.0472972972972973,
+      "elapsed_s": 36.98041190003278,
+      "start_time": "2026-04-26T18:00:23.448360",
+      "end_time": "2026-04-26T18:01:02.012892",
+      "target_volume_mL": 0.05,
+      "measured_volume_uL": 47.2972972972973,
+      "target_volume_uL": 50.0,
+      "measurement_budget_consumed": 1,
+      "aspirate_speed": 13,
+      "dispense_speed": 19,
+      "aspirate_wait_time": 3.3000000000000003,
+      "dispense_wait_time": 2.0,
+      "pre_asp_air_vol": 0.0,
+      "retract_speed": 5.0,
+      "blowout_vol": 0.277,
+      "post_asp_air_vol": 0.0,
+      "post_retract_wait_time": 0.0,
+      "overaspirate_vol": 0.0,
+      "asp_disp_cycles": 0,
+      "source_volume_remaining_ml": 5.977117117117113
+    },
+    "trial_score": 48.046234672848236,
+    "trial_quality": "partial_tolerance"
+  },
+  {
+    "measurement_id": "measurement_1777240925425532_1",
+    "parameters": {
+      "calibration": {
+        "overaspirate_vol": 0.0
+      },
+      "hardware": {
+        "parameters": {
+          "aspirate_speed": 14,
+          "aspirate_wait_time": 3.5,
+          "blowout_vol": 0.42,
+          "dispense_speed": 20,
+          "dispense_wait_time": 5.5,
+          "asp_disp_cycles": 0,
+          "post_asp_air_vol": 0.0,
+          "post_retract_wait_time": 0.0,
+          "pre_asp_air_vol": 0.0,
+          "retract_speed": 5.0
+        }
+      }
+    },
+    "target_volume_ml": 0.05,
+    "measured_volume_ml": 0.047657657657657664,
+    "duration_s": 46.991469399945345,
+    "timestamp": 1777240925.4255323,
+    "replicate_id": 1,
+    "metadata": {
+      "replicate": 1,
+      "volume": 0.047657657657657664,
+      "elapsed_s": 46.991469399945345,
+      "start_time": "2026-04-26T18:01:18.278330",
+      "end_time": "2026-04-26T18:02:05.424491",
+      "target_volume_mL": 0.05,
+      "measured_volume_uL": 47.657657657657666,
+      "target_volume_uL": 50.0,
+      "measurement_budget_consumed": 1,
+      "aspirate_speed": 14,
+      "dispense_speed": 20,
+      "aspirate_wait_time": 3.5,
+      "dispense_wait_time": 5.5,
+      "pre_asp_air_vol": 0.0,
+      "retract_speed": 5.0,
+      "blowout_vol": 0.42,
+      "post_asp_air_vol": 0.0,
+      "post_retract_wait_time": 0.0,
+      "overaspirate_vol": 0.0,
+      "asp_disp_cycles": 0,
+      "source_volume_remaining_ml": 5.977117117117113
+    },
+    "trial_score": 55.26130577727574,
+    "trial_quality": "partial_tolerance"
+  },
+  {
+    "measurement_id": "measurement_1777240974615055_1",
+    "parameters": {
+      "calibration": {
+        "overaspirate_vol": 0.0
+      },
+      "hardware": {
+        "parameters": {
+          "aspirate_speed": 14,
+          "aspirate_wait_time": 3.5,
+          "blowout_vol": 0.42,
+          "dispense_speed": 20,
+          "dispense_wait_time": 5.5,
+          "asp_disp_cycles": 0,
+          "post_asp_air_vol": 0.0,
+          "post_retract_wait_time": 0.0,
+          "pre_asp_air_vol": 0.0,
+          "retract_speed": 5.0
+        }
+      }
+    },
+    "target_volume_ml": 0.05,
+    "measured_volume_ml": 0.047837837837837814,
+    "duration_s": 46.98059390002163,
+    "timestamp": 1777240974.6150558,
+    "replicate_id": 1,
+    "metadata": {
+      "replicate": 1,
+      "volume": 0.047837837837837814,
+      "elapsed_s": 46.98059390002163,
+      "start_time": "2026-04-26T18:02:05.425532",
+      "end_time": "2026-04-26T18:02:54.613876",
+      "target_volume_mL": 0.05,
+      "measured_volume_uL": 47.83783783783782,
+      "target_volume_uL": 50.0,
+      "measurement_budget_consumed": 1,
+      "aspirate_speed": 14,
+      "dispense_speed": 20,
+      "aspirate_wait_time": 3.5,
+      "dispense_wait_time": 5.5,
+      "pre_asp_air_vol": 0.0,
+      "retract_speed": 5.0,
+      "blowout_vol": 0.42,
+      "post_asp_air_vol": 0.0,
+      "post_retract_wait_time": 0.0,
+      "overaspirate_vol": 0.0,
+      "asp_disp_cycles": 0,
+      "source_volume_remaining_ml": 5.977117117117113
+    },
+    "trial_score": 55.26130577727574,
+    "trial_quality": "partial_tolerance"
+  },
+  {
+    "measurement_id": "measurement_1777241020213023_1",
+    "parameters": {
+      "calibration": {
+        "overaspirate_vol": 0.0103
+      },
+      "hardware": {
+        "parameters": {
+          "aspirate_speed": 12,
+          "aspirate_wait_time": 3.5,
+          "blowout_vol": 0.435,
+          "dispense_speed": 2,
+          "dispense_wait_time": 0.0,
+          "asp_disp_cycles": 0,
+          "post_asp_air_vol": 0.0,
+          "post_retract_wait_time": 0.0,
+          "pre_asp_air_vol": 0.0,
+          "retract_speed": 5.0
+        }
+      }
+    },
+    "target_volume_ml": 0.05,
+    "measured_volume_ml": 0.05084684684684684,
+    "duration_s": 25.17888869997114,
+    "timestamp": 1777241020.2130234,
+    "replicate_id": 1,
+    "metadata": {
+      "replicate": 1,
+      "volume": 0.05084684684684684,
+      "elapsed_s": 25.17888869997114,
+      "start_time": "2026-04-26T18:03:14.938276",
+      "end_time": "2026-04-26T18:03:40.211993",
+      "target_volume_mL": 0.05,
+      "measured_volume_uL": 50.84684684684684,
+      "target_volume_uL": 50.0,
+      "measurement_budget_consumed": 1,
+      "aspirate_speed": 12,
+      "dispense_speed": 2,
+      "aspirate_wait_time": 3.5,
+      "dispense_wait_time": 0.0,
+      "pre_asp_air_vol": 0.0,
+      "retract_speed": 5.0,
+      "blowout_vol": 0.435,
+      "post_asp_air_vol": 0.0,
+      "post_retract_wait_time": 0.0,
+      "overaspirate_vol": 0.0103,
+      "asp_disp_cycles": 0,
+      "source_volume_remaining_ml": 5.977117117117113
+    },
+    "trial_score": 27.212997871588364,
+    "trial_quality": "within_tolerance"
+  },
+  {
+    "measurement_id": "measurement_1777241047345898_1",
+    "parameters": {
+      "calibration": {
+        "overaspirate_vol": 0.0103
+      },
+      "hardware": {
+        "parameters": {
+          "aspirate_speed": 12,
+          "aspirate_wait_time": 3.5,
+          "blowout_vol": 0.435,
+          "dispense_speed": 2,
+          "dispense_wait_time": 0.0,
+          "asp_disp_cycles": 0,
+          "post_asp_air_vol": 0.0,
+          "post_retract_wait_time": 0.0,
+          "pre_asp_air_vol": 0.0,
+          "retract_speed": 5.0
+        }
+      }
+    },
+    "target_volume_ml": 0.05,
+    "measured_volume_ml": 0.0508108108108108,
+    "duration_s": 25.310941400006413,
+    "timestamp": 1777241047.3458989,
+    "replicate_id": 1,
+    "metadata": {
+      "replicate": 1,
+      "volume": 0.0508108108108108,
+      "elapsed_s": 25.310941400006413,
+      "start_time": "2026-04-26T18:03:40.213023",
+      "end_time": "2026-04-26T18:04:07.344363",
+      "target_volume_mL": 0.05,
+      "measured_volume_uL": 50.8108108108108,
+      "target_volume_uL": 50.0,
+      "measurement_budget_consumed": 1,
+      "aspirate_speed": 12,
+      "dispense_speed": 2,
+      "aspirate_wait_time": 3.5,
+      "dispense_wait_time": 0.0,
+      "pre_asp_air_vol": 0.0,
+      "retract_speed": 5.0,
+      "blowout_vol": 0.435,
+      "post_asp_air_vol": 0.0,
+      "post_retract_wait_time": 0.0,
+      "overaspirate_vol": 0.0103,
+      "asp_disp_cycles": 0,
+      "source_volume_remaining_ml": 5.977117117117113
+    },
+    "trial_score": 27.212997871588364,
+    "trial_quality": "within_tolerance"
+  },
+  {
+    "measurement_id": "measurement_1777241095020487_1",
+    "parameters": {
+      "calibration": {
+        "overaspirate_vol": 0.0198
+      },
+      "hardware": {
+        "parameters": {
+          "aspirate_speed": 13,
+          "aspirate_wait_time": 3.1,
+          "blowout_vol": 0.5,
+          "dispense_speed": 2,
+          "dispense_wait_time": 0.0,
+          "asp_disp_cycles": 0,
+          "post_asp_air_vol": 0.0,
+          "post_retract_wait_time": 0.0,
+          "pre_asp_air_vol": 0.0,
+          "retract_speed": 5.0
+        }
+      }
+    },
+    "target_volume_ml": 0.05,
+    "measured_volume_ml": 0.05765765765765765,
+    "duration_s": 25.387180100020487,
+    "timestamp": 1777241095.020487,
+    "replicate_id": 1,
+    "metadata": {
+      "replicate": 1,
+      "volume": 0.05765765765765765,
+      "elapsed_s": 25.387180100020487,
+      "start_time": "2026-04-26T18:04:29.476600",
+      "end_time": "2026-04-26T18:04:55.020487",
+      "target_volume_mL": 0.05,
+      "measured_volume_uL": 57.65765765765765,
+      "target_volume_uL": 50.0,
+      "measurement_budget_consumed": 1,
+      "aspirate_speed": 13,
+      "dispense_speed": 2,
+      "aspirate_wait_time": 3.1,
+      "dispense_wait_time": 0.0,
+      "pre_asp_air_vol": 0.0,
+      "retract_speed": 5.0,
+      "blowout_vol": 0.5,
+      "post_asp_air_vol": 0.0,
+      "post_retract_wait_time": 0.0,
+      "overaspirate_vol": 0.0198,
+      "asp_disp_cycles": 0,
+      "source_volume_remaining_ml": 5.977117117117113
+    },
+    "trial_score": 61.826813136972085,
+    "trial_quality": "partial_tolerance"
+  },
+  {
+    "measurement_id": "measurement_1777241122022561_1",
+    "parameters": {
+      "calibration": {
+        "overaspirate_vol": 0.0198
+      },
+      "hardware": {
+        "parameters": {
+          "aspirate_speed": 13,
+          "aspirate_wait_time": 3.1,
+          "blowout_vol": 0.5,
+          "dispense_speed": 2,
+          "dispense_wait_time": 0.0,
+          "asp_disp_cycles": 0,
+          "post_asp_air_vol": 0.0,
+          "post_retract_wait_time": 0.0,
+          "pre_asp_air_vol": 0.0,
+          "retract_speed": 5.0
+        }
+      }
+    },
+    "target_volume_ml": 0.05,
+    "measured_volume_ml": 0.058288288288288276,
+    "duration_s": 25.18726679997053,
+    "timestamp": 1777241122.022561,
+    "replicate_id": 1,
+    "metadata": {
+      "replicate": 1,
+      "volume": 0.058288288288288276,
+      "elapsed_s": 25.18726679997053,
+      "start_time": "2026-04-26T18:04:55.021944",
+      "end_time": "2026-04-26T18:05:22.021317",
+      "target_volume_mL": 0.05,
+      "measured_volume_uL": 58.28828828828828,
+      "target_volume_uL": 50.0,
+      "measurement_budget_consumed": 1,
+      "aspirate_speed": 13,
+      "dispense_speed": 2,
+      "aspirate_wait_time": 3.1,
+      "dispense_wait_time": 0.0,
+      "pre_asp_air_vol": 0.0,
+      "retract_speed": 5.0,
+      "blowout_vol": 0.5,
+      "post_asp_air_vol": 0.0,
+      "post_retract_wait_time": 0.0,
+      "overaspirate_vol": 0.0198,
+      "asp_disp_cycles": 0,
+      "source_volume_remaining_ml": 5.977117117117113
+    },
+    "trial_score": 61.826813136972085,
+    "trial_quality": "partial_tolerance"
+  },
+  {
+    "measurement_id": "measurement_1777241170015704_1",
+    "parameters": {
+      "calibration": {
+        "overaspirate_vol": 0.0137
+      },
+      "hardware": {
+        "parameters": {
+          "aspirate_speed": 8,
+          "aspirate_wait_time": 4.5,
+          "blowout_vol": 0.355,
+          "dispense_speed": 2,
+          "dispense_wait_time": 0.0,
+          "asp_disp_cycles": 0,
+          "post_asp_air_vol": 0.0,
+          "post_retract_wait_time": 0.0,
+          "pre_asp_air_vol": 0.0,
+          "retract_speed": 5.0
+        }
+      }
+    },
+    "target_volume_ml": 0.05,
+    "measured_volume_ml": 0.054216216216216195,
+    "duration_s": 25.781385399983265,
+    "timestamp": 1777241170.0157042,
+    "replicate_id": 1,
+    "metadata": {
+      "replicate": 1,
+      "volume": 0.054216216216216195,
+      "elapsed_s": 25.781385399983265,
+      "start_time": "2026-04-26T18:05:43.963559",
+      "end_time": "2026-04-26T18:06:10.015704",
+      "target_volume_mL": 0.05,
+      "measured_volume_uL": 54.216216216216196,
+      "target_volume_uL": 50.0,
+      "measurement_budget_consumed": 1,
+      "aspirate_speed": 8,
+      "dispense_speed": 2,
+      "aspirate_wait_time": 4.5,
+      "dispense_wait_time": 0.0,
+      "pre_asp_air_vol": 0.0,
+      "retract_speed": 5.0,
+      "blowout_vol": 0.355,
+      "post_asp_air_vol": 0.0,
+      "post_retract_wait_time": 0.0,
+      "overaspirate_vol": 0.0137,
+      "asp_disp_cycles": 0,
+      "source_volume_remaining_ml": 5.977117117117113
+    },
+    "trial_score": 47.842944709719866,
+    "trial_quality": "partial_tolerance"
+  },
+  {
+    "measurement_id": "measurement_1777241198237240_1",
+    "parameters": {
+      "calibration": {
+        "overaspirate_vol": 0.0137
+      },
+      "hardware": {
+        "parameters": {
+          "aspirate_speed": 8,
+          "aspirate_wait_time": 4.5,
+          "blowout_vol": 0.355,
+          "dispense_speed": 2,
+          "dispense_wait_time": 0.0,
+          "asp_disp_cycles": 0,
+          "post_asp_air_vol": 0.0,
+          "post_retract_wait_time": 0.0,
+          "pre_asp_air_vol": 0.0,
+          "retract_speed": 5.0
+        }
+      }
+    },
+    "target_volume_ml": 0.05,
+    "measured_volume_ml": 0.05360360360360361,
+    "duration_s": 26.002778899972327,
+    "timestamp": 1777241198.2372403,
+    "replicate_id": 1,
+    "metadata": {
+      "replicate": 1,
+      "volume": 0.05360360360360361,
+      "elapsed_s": 26.002778899972327,
+      "start_time": "2026-04-26T18:06:10.016869",
+      "end_time": "2026-04-26T18:06:38.237240",
+      "target_volume_mL": 0.05,
+      "measured_volume_uL": 53.60360360360361,
+      "target_volume_uL": 50.0,
+      "measurement_budget_consumed": 1,
+      "aspirate_speed": 8,
+      "dispense_speed": 2,
+      "aspirate_wait_time": 4.5,
+      "dispense_wait_time": 0.0,
+      "pre_asp_air_vol": 0.0,
+      "retract_speed": 5.0,
+      "blowout_vol": 0.355,
+      "post_asp_air_vol": 0.0,
+      "post_retract_wait_time": 0.0,
+      "overaspirate_vol": 0.0137,
+      "asp_disp_cycles": 0,
+      "source_volume_remaining_ml": 5.977117117117113
+    },
+    "trial_score": 47.842944709719866,
+    "trial_quality": "partial_tolerance"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "experiment_name": "multi_volume_calibration_test",
+  "simulation_mode": false,
+  "total_measurements": 28,
+  "total_duration_s": 900.7953364849091,
+  "overall_statistics": {
+    "num_trials": 14,
+    "mean_score": 112.15875661945068,
+    "median_score": 90.29560924369427,
+    "min_score": 27.212997871588364,
+    "max_score": 265.1749214225152,
+    "stdev_score": 75.53498319404048,
+    "within_tolerance_count": 1,
+    "partial_tolerance_count": 8,
+    "outside_tolerance_count": 5,
+    "success_rate": 0.07142857142857142
+  },
+  "volume_count": 1
+}

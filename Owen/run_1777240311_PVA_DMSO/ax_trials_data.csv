@@ -1,0 +1,5 @@
+trial_index,arm_name,trial_status,generation_method,is_feasible,deviation,time,variability,overaspirate_vol,aspirate_speed,aspirate_wait_time,blowout_vol,dispense_speed,dispense_wait_time
+0,0_0,COMPLETED,Manual,False,70.1261261261241,20.602549350005575,6.31193025424674,0.0,10,0.0,0.0,10,0.0
+1,1_0,COMPLETED,Manual,True,32.4129129129149,35.301846749993274,9.71127034700006,0.01,30,10.0,0.0,5,0.0
+2,2_0,COMPLETED,Manual,True,27.29729729729821,57.50304149999283,0.5004294275901637,0.015,20,5.0,0.3,25,10.0
+3,3_0,COMPLETED,Manual,True,4.414414414411705,43.20304269998451,0.13329062793071986,0.002,15,2.0,0.4,20,3.0

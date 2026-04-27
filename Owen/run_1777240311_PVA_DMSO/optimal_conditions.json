@@ -1,0 +1,19 @@
+{
+  "calibration": {
+    "overaspirate_vol": 0.0103
+  },
+  "hardware": {
+    "parameters": {
+      "aspirate_speed": 12,
+      "aspirate_wait_time": 3.5,
+      "blowout_vol": 0.435,
+      "dispense_speed": 2,
+      "dispense_wait_time": 0.0,
+      "asp_disp_cycles": 0,
+      "post_asp_air_vol": 0.0,
+      "post_retract_wait_time": 0.0,
+      "pre_asp_air_vol": 0.0,
+      "retract_speed": 5.0
+    }
+  }
+}
